@@ -11,4 +11,10 @@
 
 /* Plaats je oplossing hieronder */
 
+.flex-container {
+  display: flex;
+}
 
+#item2 {
+  margin-right: auto;
+}

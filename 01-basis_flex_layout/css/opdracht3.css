@@ -11,4 +11,10 @@
 
 /* Plaats je oplossing hieronder */
 
+.flex-container {
+  display: flex;
+}
 
+.flex-container > div {
+  flex-grow: 1; /* of 'flex: 1 1 auto' of 'flex:auto' */
+}

@@ -11,4 +11,10 @@
 
 /* Plaats je oplossing hieronder */
 
+.flex-container {
+  display: flex;
+}
 
+.flex-container > div {
+  flex: 1;
+}

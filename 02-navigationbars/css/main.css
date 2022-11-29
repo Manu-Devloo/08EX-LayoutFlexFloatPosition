@@ -19,3 +19,33 @@ nav a {
   padding: 10px;
   margin: 10px;
 }
+
+#nav1 ul {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}
+
+#nav2 ul {
+  display: flex;
+  list-style-type: none;
+}
+#nav2 li {
+  flex: auto;
+}
+
+#nav3 ul {
+  display: flex;
+  list-style-type: none;
+}
+#nav3 li {
+  flex: 1;
+}
+
+#nav4 ul {
+  display: flex;
+  list-style-type: none;
+}
+.push-right {
+  margin-left: auto;
+}

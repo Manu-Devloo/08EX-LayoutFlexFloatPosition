@@ -15,5 +15,6 @@
 }
 
 /* Plaats je oplossing hieronder */
-
-
+.flex-container {
+  justify-content: center;
+}
